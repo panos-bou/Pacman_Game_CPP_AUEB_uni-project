@@ -14,7 +14,7 @@ The primary focus of this project is software architecture, emphasizing robust O
 
 ## 🚀 How to Build and Run
 
-**⚠️ Important:** This repository does NOT include the pre-compiled SGG (Simple Graphics Library) binaries (`.lib`, `.dll`, `.so`) as they are intentionally excluded via `.gitignore` to keep the repository clean.
+**⚠️ Important:** This repository does NOT include the pre-compiled SGG (Simple Graphics Library) binaries (`.lib`, `.dll`, `.so`).
 
 To compile and run this project locally, you must manually provide the SGG library to your build environment:
 
